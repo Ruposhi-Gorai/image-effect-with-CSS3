@@ -3,11 +3,13 @@
 
 }
 .main{
-          width: 1300px;
+          width: 90%;
           display: flex;
           flex-wrap: wrap;
-          gap: 20px;
+          justify-content: space-evenly;
+          gap: 10px;
           margin: auto;
+          margin-top: 1%;
 }
 .outer_box{
    width: 31.33%;
